@@ -1,0 +1,7 @@
+# Requirements for 3D Model Generation
+
+meshroom
+open3d
+gltf-pipeline
+numpy
+pillow
